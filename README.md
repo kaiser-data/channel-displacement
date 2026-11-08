@@ -9,7 +9,7 @@
 
 Apart Research · Swarm Alignment Hackathon · 6–8 Nov 2026 · companion to [Agent Channel Audit](https://github.com/kaiser-data/agent-channel-audit)
 
-[Paper (PDF)](paper/main.pdf) · [Frozen protocol](PROTOCOL.md) · [Lab log](LOG.md)
+[Paper (PDF)](paper/main.pdf) · [Explainer video (2:31)](video/out/channel-displacement-16x9.mp4) · [Frozen protocol](PROTOCOL.md) · [Lab log](LOG.md)
 
 </div>
 
@@ -61,6 +61,7 @@ results/runs/               the 160 scored runs (full transcripts and logs)
 results/pilot/              pilot, one run per model, not scored
 results/runs_openrouter_partial/  the 2 valid OpenRouter runs (Haiku), reported separately
 paper/                      main.tex, figure.py, fig1-numbers.txt
+video/                      explainer (Remotion edit, AI narration, real run log); see video/README.md
 ```
 
 ## Re-run the experiment
